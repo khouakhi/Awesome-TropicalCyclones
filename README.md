@@ -1,8 +1,7 @@
-
-![Credit Wikipedia](https://en.wikipedia.org/wiki/Tropical_cyclone#/media/File:Hurricane_Isabel_from_ISS.jpg)
-
 # TropicalCyclones-Packages
-A list of R and Python Packages for Tropical cyclones retrieval &amp; analysis
+A list of R and Python Packages for Tropical cyclones retrieval and analysis
+
+![Credit Wikipedia](img/tc.jpg)
 
 ### R package:
 
