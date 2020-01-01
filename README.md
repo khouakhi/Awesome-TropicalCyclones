@@ -2,7 +2,7 @@
 A list of R and Python Packages for Tropical cyclones data retrieval and analysis
 
 <p align="center">
-  <img width="600" height="600" src="img/tc.jpg">
+  <img width="800" height="400" src="img/tc.jpg">
 </p>
 
 
