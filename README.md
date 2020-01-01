@@ -1,8 +1,9 @@
 # TropicalCyclones-Packages
 A list of R and Python Packages for Tropical cyclones data retrieval and analysis
 
-![Credit Wikipedia](img/tc.jpg|width=100)
 
+
+<img src="img/tc.jpg" width="50%">
 
 ### R package:
 
